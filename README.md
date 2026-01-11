@@ -116,3 +116,4 @@ Below is a running list of what and how to install the lsp's that are going to b
   - npm install -g typescript-language-server typescript
 
 # NVIM
+# NVIM
