@@ -115,3 +115,4 @@ Below is a running list of what and how to install the lsp's that are going to b
 4. { typescript-language-server }
   - npm install -g typescript-language-server typescript
 
+# NVIM
