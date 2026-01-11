@@ -1,6 +1,6 @@
 -- OPTIONS
 local set = vim.opt
-
+vim.g.mapleader = " "
 --line nums
 set.relativenumber = true
 set.number = true
